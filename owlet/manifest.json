@@ -1,9 +1,0 @@
-{
-  "domain": "owlet",
-  "name": "Owlet",
-  "config_flow": false,
-  "documentation": "https://github.com/CAB426/pyowlet",
-  "dependencies": [],
-  "codeowners": ["@CAB426"],
-  "requirements": ["owletpy==1.0.14"]
-}
